@@ -1,1 +1,1 @@
---platform=linux/amd64 linuxserver/qbittorrent:libtorrentv1-version-release-4.5.2_v1.2.19
+--platform=linux/amd64 linuxserver/qbittorrent:4.5.2-libtorrentv1
