@@ -1,2 +1,3 @@
 linuxserver/qbittorrent
 --platform=linux/amd64 linuxserver/qbittorrent
+--platform=linux/amd64 linuxserver/qbittorrent:4.5.2-libtorrentv1
