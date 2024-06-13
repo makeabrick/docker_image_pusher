@@ -1,1 +1,2 @@
 linuxserver/qbittorrent
+--linux/amd64 linuxserver/qbittorrent
