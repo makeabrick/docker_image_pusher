@@ -1,1 +1,1 @@
-linuxserver/qbittorrent
+linuxserver/qbittorrent:libtorrentv1-version-release-4.5.2_v1.2.19
